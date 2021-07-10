@@ -19,6 +19,7 @@ Bem-vindo ao meu projeto feito durante minha participação no bootcamp de html 
 
 
 
+![SNAKE GAME](https://user-images.githubusercontent.com/55301440/125148761-e1d9c500-e10a-11eb-8835-378198b8b6ab.png)
 
 
 
