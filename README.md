@@ -14,12 +14,13 @@ Bem-vindo ao meu projeto feito durante minha participação no bootcamp de html 
 
 - CSS3
 
-- Js
+- JavaScript
 
 
 
 
-![SNAKE GAME](https://user-images.githubusercontent.com/55301440/125148761-e1d9c500-e10a-11eb-8835-378198b8b6ab.png)
+![snakegame](https://user-images.githubusercontent.com/55301440/125557381-03d96413-80e1-40c1-b91d-003bc8d6e19f.gif)
+
 
 
 
